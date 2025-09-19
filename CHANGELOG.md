@@ -7,4 +7,4 @@
 - Thunderstore release!
 
 ## 1.0.2
-- Internal refactoring across namespaces and classes. Open sourced build now available on Githhub.
+- Internal refactoring across namespaces and classes. Open sourced build now available via GitHub.
