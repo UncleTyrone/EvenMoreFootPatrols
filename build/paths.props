@@ -1,0 +1,9 @@
+﻿<Project>
+    <PropertyGroup>
+        <!-- Paths and conditions -->
+        <S1MonoDir>C:\Schedule I\Builds\Alternate</S1MonoDir>
+        <S1CPPDir>C:\Schedule I\Builds\Public</S1CPPDir>
+        <CommonDir>C:\Schedule I</CommonDir>
+        <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    </PropertyGroup>
+</Project>
