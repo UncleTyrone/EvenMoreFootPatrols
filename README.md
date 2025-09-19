@@ -8,7 +8,7 @@ If you want to configure the routes, amount of police, or their movement speed p
 This mod comes with a utility to help setup patrols. Use F6 to print your coordinates in the console for use in making your own patrols.
 
 
-## [Verify integrity of this mod via GitHub](https://github.com/UncleTyrone/EvenMoreFootPatrols/)
+## [Verify mod integrity and see changelogs at GitHub](https://github.com/UncleTyrone/EvenMoreFootPatrols/)
 
 
 ## **NOTICE!**
