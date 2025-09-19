@@ -8,6 +8,9 @@ If you want to configure the routes, amount of police, or their movement speed p
 This mod comes with a utility to help setup patrols. Use F6 to print your coordinates in the console for use in making your own patrols.
 
 
+## [Verify integrity of this mod via GitHub](https://github.com/UncleTyrone/EvenMoreFootPatrols/)
+
+
 ## **NOTICE!**
 Even More Foot Patrols depends on the version of [MelonLoader](https://melonwiki.xyz/) specified below in order to work properly. Ensure that you are using the MAIN or ALTERNATE branch of the game as well. You may crash if you try to use the BETA branch.
 
