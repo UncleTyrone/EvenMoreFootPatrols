@@ -46,7 +46,7 @@ namespace EvenMoreFootPatrols
         public const string Name = "Even More Foot Patrols";
         public const string Description = "Even More Foot Patrols!";
         public const string Author = "UncleTyrone";
-        public const string Version = "1.0.2";
+        public const string Version = "1.0.3";
     }
 
     public class EvenMoreFootPatrols : MelonMod
