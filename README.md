@@ -15,7 +15,7 @@ This mod comes with a utility to help setup patrols. Use F6 to print your coordi
 Even More Foot Patrols depends on the version of [MelonLoader](https://melonwiki.xyz/) specified below in order to work properly. Ensure that you are using the MAIN or ALTERNATE branch of the game as well. You may crash if you try to use the BETA branch.
 
 
-## **Schedule I:**  v0.4.0f5
+## **Schedule I:**  v0.4.0f8
 [**MelonLoader:**](https://melonwiki.xyz/) v0.7.0 *(This mod was not built on v0.7.1 and you may experience issues!)*
 
 
